@@ -1,5 +1,5 @@
 {
-    "name": "sparefoot/json",
+    "name": "sparefoot/php-json",
     "description": "A library for simplifying JSON linting and validation.",
     "keywords": ["json", "lint", "schema", "validate"],
     "homepage": "http://herrera-io.github.com/php-json",
