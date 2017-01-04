@@ -17,8 +17,8 @@
     "require": {
         "php": ">=5.3.3",
         "ext-json": "*",
-        "justinrainbow/json-schema": ">=1.0,<2.0-dev",
-        "seld/jsonlint": ">=1.0,<2.0-dev"
+        "justinrainbow/json-schema": "^1.6 || ^2.0 || ^3.0 || ^4.0",
+        "seld/jsonlint": "^1.4"
     },
     "require-dev": {
         "herrera-io/phpunit-test-case": "1.*",
